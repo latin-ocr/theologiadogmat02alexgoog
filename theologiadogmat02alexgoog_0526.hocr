@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./theologiadogmat02alexgoog_0526.png"; bbox 0 0 3175 5384; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1180 187 2297 2524">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1180 187 2297 2524">
+     <span class='ocr_line' id='line_1_1' title="bbox 1220 187 2297 2524; baseline -123.111 16376.889"><span class='ocrx_word' id='word_1_1' title='bbox 1328 187 2297 1292; x_wconf 56' lang='grc' dir='ltr'><strong>ὲ</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1220 1148 2297 2020; x_wconf 46' lang='lat'><strong>3</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1448 1968 2297 2524; x_wconf 31' lang='lat' dir='ltr'><strong>a„</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 1180 272 1681 2513; baseline -89.5 -93"><span class='ocrx_word' id='word_1_4' title='bbox 1358 272 1681 780; x_wconf 69' lang='grc' dir='ltr'><strong>,Ξ</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1180 2052 1636 2513; x_wconf 57' lang='grc' dir='ltr'>ὲ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 1220 1576 1821 2052">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 1220 1712 1821 2036">
+     <span class='ocr_line' id='line_1_3' title="bbox 1657 1712 1821 1791"><span class='ocrx_word' id='word_1_6' title='bbox 1657 1712 1821 1791; x_wconf 57' lang='grc' dir='ltr'><strong><em>α</em></strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 1220 1576 1632 2052"><span class='ocrx_word' id='word_1_7' title='bbox 1220 1576 1632 2052; x_wconf 47' lang='grc' dir='ltr'><strong>ζῴη,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 218 182 616 2424">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 218 182 616 2424">
+     <span class='ocr_line' id='line_1_5' title="bbox 218 182 616 2424"><span class='ocrx_word' id='word_1_8' title='bbox 218 182 616 2424; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
